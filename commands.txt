@@ -1,0 +1,53 @@
+node --version
+npm --version
+
+npm install -g express-generator
+     -->if Security error then execute 
+        1>Set-ExecutionPolicy -Scope Currentuser
+            ExecutionPolicy:Bypass
+
+express
+npm install -->(Installing dependencies)
+npm audit fix --force -->(execute until 0vulnerabilities)
+SET DEBUG-career_builder:* ; npm start 
+
+npm install -g nodemon -->(monitoring the node commands)
+express --view=pug --git 
+npm install -->(Installing dependencies)   
+npm audit fix --force -->(execute until 0vulnerabilities)
+nodemon
+
+mongodb user password: c9jwtJLuGLGzsuFp
+
+
+
+
+
+Git commands:
+git init 
+git add .
+git commit -m "1st commit"
+git remote add origin   "https://github.com/vlmgopal2004/Career_Guid.git"
+git push -u origin main
+
+
+
+
+
+If you not get Permission 
+example:-"remote: Permission to Tinku20/saveior.git denied to Bhanu-4895.
+fatal: unable to access 'https://github.com/Tinku20/saveior.git/': The requested URL returned error: 403  "
+
+commands:-
+git config --list
+git credential reject https://github.com
+git config --global credential.username Tinku20
+git clone https://github.com/Tinku20/saveior.git
+git credential reject https://github.com
+
+
+
+
+
+https://careerBuilder.cyclic.app/
+

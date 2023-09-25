@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content
+  section#location-list
+    h2 Location List
+    ul
+      each location in locations
+        li= location
